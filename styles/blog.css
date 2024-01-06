@@ -30,16 +30,16 @@ nav{
     padding: 30px 30px 30px 150px;
     display: flex;
     
-}
-
+    align-items: center;
+    }
 .nav-title{
     color: #181818;
+    
     font-size: 45px;
     font-weight: 800;
 }
 nav > ul{
     display: flex;
-
 }
 nav li{
     list-style: none;
@@ -49,8 +49,12 @@ nav a{
     text-decoration: none;
     color: #474747;
 }
+
 /*Header realted styles*/
 .header{
     background-color: #FFF8F3;
-    
-}
+    }
+
+.banner .profile-pic{
+    width: 500px;
+ }
