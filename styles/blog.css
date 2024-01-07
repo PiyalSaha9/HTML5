@@ -110,4 +110,7 @@ nav a{
     display: flex;
     justify-content: space-around;
  }
+ .about-info{
+    text-align: center;
+ }
  
