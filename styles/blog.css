@@ -93,6 +93,11 @@ nav a{
     margin-bottom: 21px;
  }
  /*main section style*/
+ main{
+
+    max-width: 1140px;
+    margin: auto;
+ }
  /*about section style*/
  
  .about{
@@ -101,3 +106,8 @@ nav a{
     background: #FFF8F3;
     margin: 130px;
  }
+ .about-info-container{
+    display: flex;
+    justify-content: space-around;
+ }
+ 
